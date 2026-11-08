@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react"
 export function CTA() {
   return (
     <section id="cadastro" className="bg-[#eef3fc]">
-      <div className="mx-auto max-w-6xl px-5 pb-20">
+      <div className="mx-auto max-w-3xl px-5 pb-20">
         <div className="relative overflow-hidden rounded-3xl bg-ink px-6 py-16 text-center sm:px-12">
           <div
             aria-hidden="true"
@@ -21,30 +21,15 @@ export function CTA() {
           </p>
           <div className="relative mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <a
-              href="#cadastro"
-              className="group inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3.5 text-base font-medium text-ink transition-transform hover:-translate-y-0.5"
-            >
+  href="https://t.me/EnitimeBot"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="group inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3.5 text-base font-medium text-ink transition-transform hover:-translate-y-0.5"
+>
               Comece já!
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
             </a>
-            <a
-              href="#entrar"
-              className="inline-flex items-center gap-2 rounded-xl border border-white/20 px-6 py-3.5 text-base font-medium text-white transition-colors hover:bg-white/10"
-            >
-              Já tenho conta
-            </a>
           </div>
-
-          {/* <p className="relative mt-8 text-sm text-white/50">
-            disponível a partir do{" "}
-            <a href="#recursos" className="font-semibold text-white underline underline-offset-4">
-              ENIWHERE BRONZE
-            </a>
-            *{" "}
-            <a href="#recursos" className="font-semibold text-brand underline underline-offset-4">
-              Saiba mais
-            </a>
-          </p> */}
         </div>
       </div>
     </section>

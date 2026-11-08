@@ -35,16 +35,12 @@ export function SiteHeader() {
 
         <div className="hidden items-center gap-2 md:flex">
           <a
-            href="#cadastro"
-            className="rounded-lg bg-brand-soft px-4 py-2 text-sm font-medium text-ink transition-colors hover:bg-brand"
-          >
-            Cadastre-se
-          </a>
-          <a
-            href="#entrar"
-            className="rounded-lg bg-ink px-4 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90"
-          >
-            Entrar
+  href="https://t.me/EnitimeBot"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-lg bg-brand-soft px-4 py-2 text-sm font-medium text-ink transition-colors hover:bg-brand"
+>
+            Comece já!
           </a>
         </div>
 

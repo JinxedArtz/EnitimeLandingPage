@@ -23,21 +23,8 @@ export const metadata: Metadata = {
     'Enitime é o chatbot B2B do ecossistema Eniwhere que conecta lojas de reparo de eletrônicos a fornecedores de peças. Otimize processos, economize tempo e dinheiro.',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: 'logoEnitime.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/logoEnitime.png',
+    apple: '/logoEnitime.png',
   },
 }
 

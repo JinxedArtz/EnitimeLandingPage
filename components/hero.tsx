@@ -24,7 +24,7 @@ export function Hero() {
 
           <p className="mx-auto mt-6 max-w-md text-pretty text-base text-foreground/70 sm:text-lg">
             Otimize seus processos e economize tempo (e dinheiro) conectando sua loja de reparo aos melhores
-            fornecedores de peças através do nosso chatbot.
+            fornecedores de peças da região!
           </p>
 
           <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">

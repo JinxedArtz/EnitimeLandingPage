@@ -2,16 +2,12 @@ import { WordmarkEniwhere } from "./wordmark"
 
 const COLUMNS = [
   {
-    title: "Preços",
-    links: ["Bronze", "Prata", "Ouro"],
-  },
-  {
     title: "Equipe",
     links: ["Sobre nós", "Carreiras", "Parceiros"],
   },
   {
     title: "Contato",
-    links: ["Suporte", "Vendas", "WhatsApp"],
+    links: ["Suporte", "Email", "WhatsApp"],
   },
 ]
 
