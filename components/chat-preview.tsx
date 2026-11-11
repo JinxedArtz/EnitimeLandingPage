@@ -34,7 +34,7 @@ export function ChatPreview() {
         <OfferBubble side="left" />
 
         <Bubble side="right" meta="Reparo Tech · 14:03" read>
-          Fechado! Confirma o pedido.
+          Aceitar!
         </Bubble>
       </div>
 

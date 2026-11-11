@@ -11,7 +11,7 @@ export function Hero() {
         <div className="mx-auto max-w-3xl text-center">
           <span className="inline-flex items-center gap-2 rounded-full border border-brand-strong/20 bg-white/60 px-3 py-1 text-xs font-medium text-brand-strong">
             <span className="h-1.5 w-1.5 rounded-full bg-brand-strong" />
-            Um recurso do ecossistema ENIWHERE
+            Um recurso do ecossistema ENIGMA
           </span>
 
           <h1 className="font-antonio mt-6 font-display text-5xl font-bold uppercase leading-[0.95] tracking-tight text-ink sm:text-6xl md:text-7xl">

@@ -55,7 +55,7 @@ export function SiteFooter() {
         </div>
 
         <div className="mt-12 border-t border-white/10 pt-6">
-          <p className="text-xs text-white/40">© 2025 Enigma Solutions. All rights reserved.</p>
+          <p className="text-xs text-white/40">© 2026 Enigma Solutions. All rights reserved.</p>
         </div>
       </div>
     </footer>

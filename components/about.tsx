@@ -33,7 +33,7 @@ export function About() {
           </ul>
         </div>
 
-        <div className="relative rounded-3xl border border-black/5 bg-white p-8 shadow-[0_20px_60px_-30px_rgba(30,60,120,0.35)]">
+          {/* <div className="relative rounded-3xl border border-black/5 bg-white p-8 shadow-[0_20px_60px_-30px_rgba(30,60,120,0.35)]">
           <div className="grid grid-cols-2 gap-4">
             <div className="rounded-2xl bg-[#f7f9fd] p-5">
               <p className="font-display text-3xl font-extrabold text-ink">99%(!)</p>
@@ -48,7 +48,7 @@ export function About() {
               <p className="mt-1 text-sm text-ink/70">avaliação média das lojas parceiras</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   )
